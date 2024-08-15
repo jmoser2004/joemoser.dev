@@ -1,0 +1,99 @@
+.monitor {
+    background-color: tan;
+    width: 50vmin;
+    height: 55vmin;
+    min-width: 300px;
+    min-height: 350px;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin-inline: auto;
+    margin-top: 5%;
+    position: relative;
+    box-shadow: -10px 10px 10px black;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.bezel {
+    border-radius: 1%;
+    position: absolute;
+    width: 90%;
+    height: 80%;
+    background-color: black;
+    margin-inline: 5%;
+    margin-top: 2.5%;
+}
+
+.monitorTextDiv {
+    height: 90%;
+    overflow: scroll;
+}
+
+.monitorText {
+    top: 5%;
+    color: green;
+    margin: 1%;
+}
+
+.textboxDiv {
+    position: absolute;
+    top: 47vmin;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.textboxText {
+    color: green;
+    font-size: x-small;
+}
+
+.textbox {
+    border: 2px green solid;
+    background-color: black;
+    color: green;
+    margin-right: 1%;
+}
+
+.enterButton {
+    height: 100%;
+    border-radius: 20%;
+    background-color: black;
+    color: green;
+    border: 2px green solid;
+}
+
+.belowMonitor {
+    position: relative;
+    top: 110%;
+    width: 100%;
+    display: flex;
+}
+
+.disk {
+    position: relative;
+    height: 15px;
+    width: 50%;
+    background-color: darkslategray;
+    left: 15px;
+}
+
+.innerDisk {
+    position: relative;
+    height: 5px;
+    top: 5px;
+    width: 100%;
+    background-color: black;
+}
+
+.joeGPT {
+    position: relative;
+    color: gray;
+    margin-top: 0;
+    align-self: flex-end;
+    margin-left: 10%;
+    text-shadow: 
+        1px 1px 0px black,
+        -1px 1px 0px black,
+        -1px -1px 0px black,
+        1px -1px 0px black;
+}

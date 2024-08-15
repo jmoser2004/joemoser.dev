@@ -1,0 +1,46 @@
+.itemBox {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin-inline: auto;
+    background-color: #101010;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: -10px 10px 10px black;
+    margin-top: 5%;
+    flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+    height: 100%;
+    width: 70%;
+    flex-wrap: wrap;
+}
+
+
+.projectPhoto {
+    margin-left: 3%;
+    margin-right: 5%;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.titleDesc {
+    width: 70%;
+}
+
+.skillsLearned {
+    width: 20%;
+    margin-right: 3%;
+}
+
+.span {
+    width: 5%;
+}
+
+.githubLink:link {
+    color: #D9D9D9;
+    text-decoration: underline;
+}

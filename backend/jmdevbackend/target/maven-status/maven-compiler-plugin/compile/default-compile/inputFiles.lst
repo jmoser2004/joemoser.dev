@@ -1,0 +1,8 @@
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/Application.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/ChatGPTService.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/ChatGPT_Models/Message.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/ChatGPT_Models/RequestModel.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/JoeInfo.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/JoeInfoController.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/JoeInfoRepo.java
+/home/coding/Desktop/Projects/joemoser.dev/backend/jmdevbackend/src/main/java/dev/joemoser/jmdevbackend/JoeInfoService.java

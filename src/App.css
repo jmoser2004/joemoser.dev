@@ -1,0 +1,119 @@
+.bodyBox {
+  padding-top: 20px;
+  padding-bottom: 6%;
+}
+
+.photoBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.quote {
+  text-align: center;
+  position: relative;
+  align-content: center;
+  padding-inline: 10%;
+}
+
+.credit {
+  text-align: end;
+}
+
+.mainPhoto {
+  min-width: 200px;
+  width: 15%;
+  height: 15%;
+}
+
+.about {
+  padding-inline: 1.5%;
+}
+
+.skillsList {
+  float: right;
+  padding-inline: 5%;
+}
+
+.skillsHeader {
+  text-indent: 25px;
+  margin-top: 0;
+}
+
+.bodyParagraph {
+  text-indent: 30px;
+  text-wrap: wrap;
+  min-width: 350px;
+}
+
+.workExperience {
+  padding-inline: 1.5%;
+}
+
+.workList {
+  float: left;
+  width: 25%;
+  min-width: 350px;
+}
+
+.secondPhoto {
+  min-width: 200px;
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-left: 5%;
+}
+
+.workListList {
+  margin-bottom: 0;
+}
+
+.workHeader {
+  text-indent: 25px;
+  margin-top: 0;
+}
+
+.workDescription {
+  list-style-type: none;
+  padding-left: 25px;
+}
+
+.currentTag {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: smaller;
+  font-style: italic;
+}
+
+.underlineLink:link {
+  text-decoration: underline;
+}
+
+.underlineLink:hover {
+  color: white;
+}
+
+.suitSunglasses {
+  float: right;
+  padding-left: 1%;
+  width: 20%;
+}
+
+.classesList {
+  float: right;
+  width: 25%;
+  min-width: 350px;
+}
+
+.classesHeader {
+  text-indent: 25px;
+  margin-top: 0;
+}
+
+.education {
+  padding-inline: 1.5%;
+}
+
+.classDescription {
+  font-size: x-small;
+}
